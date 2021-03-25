@@ -43,7 +43,6 @@ extern crate packed_simd;
 
 extern crate byteorder;
 pub extern crate digest;
-extern crate rand_core;
 extern crate zeroize;
 
 // Used for traits related to constant-time code.
